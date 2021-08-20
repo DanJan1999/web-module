@@ -1,0 +1,21 @@
+How does the internet work?
+
+The internet is a vast connection of networks. These networks are series of connected computers. 
+A computer can reach content by following trails that allow it to ask for that content. 
+It starts with itself, locally. Then it branches out to other computers sharing that same network.
+If it doesn't find it, it reaches out to the next level up of networks connected together, so on.
+Once it reaches the content, it brings it back to itself and follows through on that request.
+This process is repeated for every request whether you are dealing with content stored locally or remotely.
+
+
+What happens when you click a link?
+
+When you click a link, you are clicking on a series of recognizable words so we can identify the 
+request we are making. However, when the computer reads that link it reads the DNS of that link. 
+The DNS is a series of numbers that specifically identify a location on the internet. When the link is clicked,
+the computer follows the process described in the paragraph above, to find the address and request access to it. 
+A number of different responses can be sent back which tell the computer whether the site can be reached or 
+whether or not the site is working and many many others. The interaction of the computer and a link, as well as anything
+done on the webpage makes up a series of requests and responses between the computer(client) and the webpage(server).
+This request/response relationship between the client and the server make up the interaction that billions of people use every 
+day. That's surfing the web!
